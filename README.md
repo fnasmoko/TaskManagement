@@ -23,10 +23,14 @@ These are the list of API /task
 ```
 
 ## First Steps
-There are lists of library that must be install or do before:
+There are lists of library that must be install and configuration to do before:
 1. npm init
 2. npm install express
-3. execute file 'index.js' to start the services 
+3. open \model\task_management.sql with your database apps
+4. then execute \model\task_management.sql to create the database model
+5. open \model\dbTaskManagement.js
+6. adjust user and password with our database connection
+7. execute file 'index.js' to start the services 
 
 
 Hope it can be useful for you.
