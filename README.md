@@ -26,6 +26,7 @@ These are the list of API /task
 There are lists of library that must be install or do before:
 1. npm init
 2. npm install express
+3. execute file 'index.js' to start the services 
 
 
 Hope it can be useful for you.
